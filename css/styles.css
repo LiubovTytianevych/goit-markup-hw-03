@@ -282,9 +282,6 @@ img {
     cursor: pointer;
 }
 .filters-item {
-    margin-right: 8px;
-    margin-bottom: 56px;
-    text-align: center;
 }
 .filters-item:last-child {
     margin-right: 0;
